@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "appVersionCode": 50020061,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "messageText": "Oops! ⏰ Klik Tombol Update Untuk Memperbarui Versi Terbaru.",
   "updateButtonText": "Update",
   "updateButtonLink": "https://whatsapp.com/channel/0029Vb6NY4v7NoZs4ADHnm0m",
   "updateButtonGradientStartColor": "#1E88E5",
